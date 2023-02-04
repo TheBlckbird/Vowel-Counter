@@ -1,0 +1,9 @@
+body {
+    text-align: center;
+    font-size: 15px;
+}
+
+input {
+    margin-top: 10px;
+    font-size: inherit;
+}
